@@ -1,1 +1,2 @@
 udn.com##.overlay-mask
+upmedia.mg##cover-ad

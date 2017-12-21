@@ -1,2 +1,4 @@
 udn.com##.overlay-mask
 upmedia.mg##cover-ad
+upmedia.mg##.mobile-ad
+ltn.com.tw##.fb_mask

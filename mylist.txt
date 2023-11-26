@@ -4,3 +4,4 @@ upmedia.mg##cover-ad
 upmedia.mg##.mobile-ad
 ltn.com.tw##.fb_mask
 img.appledaily.com.tw/pay/js/paywall.*.js
+www.supermoto8.com###myModal

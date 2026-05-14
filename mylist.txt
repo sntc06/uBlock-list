@@ -5,3 +5,5 @@ upmedia.mg##.mobile-ad
 ltn.com.tw##.fb_mask
 img.appledaily.com.tw/pay/js/paywall.*.js
 www.supermoto8.com###myModal
+! 2026年5月14日 https://www.ftvnews.com.tw
+||cdn.ftvnews.com.tw/client/images/min-xuan.gif$image

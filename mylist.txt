@@ -9,3 +9,16 @@ www.supermoto8.com###myModal
 ||cdn.ftvnews.com.tw/client/images/min-xuan.gif$image
 ! 2026年5月26日 https://www.upmedia.mg
 ||upmedia.mg/js/aibot.min.js
+upmedia.mg###rin
+upmedia.mg###rin_m
+upmedia.mg###rstop
+upmedia.mg###rstop_m
+upmedia.mg###smallBot
+upmedia.mg###RunOut1
+upmedia.mg###RunOut2
+upmedia.mg###RunOut1_m
+upmedia.mg###RunOut2_m
+upmedia.mg###dia
+upmedia.mg###dia_m
+upmedia.mg##.pc-ai
+upmedia.mg##.mob-ai

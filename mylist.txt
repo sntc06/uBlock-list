@@ -8,5 +8,4 @@ www.supermoto8.com###myModal
 ! 2026年5月14日 https://www.ftvnews.com.tw
 ||cdn.ftvnews.com.tw/client/images/min-xuan.gif$image
 ! 2026年5月26日 https://www.upmedia.mg
-||www.upmedia.mg/gif/ROBOT_LOOP.gif$image
-www.upmedia.mg###dia
+||upmedia.mg/js/aibot.min.js

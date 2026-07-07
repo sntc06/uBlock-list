@@ -22,3 +22,6 @@ upmedia.mg###dia
 upmedia.mg###dia_m
 upmedia.mg##.pc-ai
 upmedia.mg##.mob-ai
+! 2026年7月7日 https://www.ftvnews.com.tw
+www.ftvnews.com.tw###lineFriends
+www.ftvnews.com.tw###bubble-content

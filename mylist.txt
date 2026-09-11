@@ -25,3 +25,5 @@ upmedia.mg##.mob-ai
 ! 2026年7月7日 https://www.ftvnews.com.tw
 www.ftvnews.com.tw###lineFriends
 www.ftvnews.com.tw###bubble-content
+news.pts.org.tw##.promotion-mask
+news.pts.org.tw##.cookie-flex
